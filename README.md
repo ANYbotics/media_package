@@ -1,3 +1,5 @@
+# ANYbotics Media Package
+
 The contents of this media package is released for the use
 in journalism and reporting under following conditions:
 
@@ -8,8 +10,8 @@ in journalism and reporting under following conditions:
   
 Please contact us for inquiries at:
 
-ANYbotics AG
-www.anybotics.com
-info@anybotics.com
-Leonhardstrasse 21, LEE H303
+ANYbotics AG<br />
+www.anybotics.com<br />
+info@anybotics.com<br />
+Leonhardstrasse 21, LEE H303<br />
 8092 Zurich, Switzerland
